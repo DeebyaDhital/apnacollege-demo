@@ -1,4 +1,4 @@
 # apnacollege-demo
 Git practice
 <br>
-Author-Deebya Dhital
+Author-Deebya Dhital (DD)
